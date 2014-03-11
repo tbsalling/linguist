@@ -50,6 +50,12 @@
 # Haxelib projects often contain a neko bytecode file named run.n
 - run.n$
 
+## Java ##
+
+# Maven
+- src/main/resources/
+- src/test/resources/
+
 ## Commonly Bundled JavaScript frameworks ##
 
 # jQuery
